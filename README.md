@@ -4,7 +4,7 @@ A modern weather dashboard built with React + TypeScript that provides real-time
 
 ## 🚀 Live Demo
 
-🌍 Live Website: https://weather-app-mu-ruddy-93.vercel.app/
+🌍 Live Website: [https://weather-app-mu-ruddy-93.vercel.app/](https://weather-app-nine-beige-16.vercel.app/)
 
 ---
 
